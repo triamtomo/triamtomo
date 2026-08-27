@@ -1,8 +1,16 @@
-### Halo, saya Triam Tomo 👋
+# 👋 Halo, saya Triam Tomo
 
-Mahasiswa S1 Informatika di Universitas Bina Sarana Informatika, dengan ketertarikan di pengembangan web dan machine learning. Suka membangun project dari nol — mulai dari backend, database, sampai integrasi fitur seperti QR code dan model ML.
+### 💻 S1 Informatika Student | Full-Stack Developer
 
-🔭 Saat ini fokus memperdalam **PHP (CodeIgniter 4)**, **Node.js/Express**, dan dasar-dasar **Machine Learning**
+Mahasiswa S1 Informatika di Universitas Bina Sarana Informatika yang berfokus pada pengembangan aplikasi web.
+
+Saya senang membangun aplikasi dari frontend hingga backend, mulai dari perancangan database, autentikasi, REST API, hingga implementasi berbagai fitur aplikasi.
+
+🌱 Saat ini sedang memperdalam:
+- PHP & CodeIgniter 4
+- Node.js & Express.js
+- React.js
+- MySQL & MongoDB
 
 🌱 Sedang belajar lebih dalam soal pengembangan web modern
 
