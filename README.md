@@ -17,7 +17,7 @@ Saya senang membangun aplikasi dari frontend hingga backend, mulai dari perancan
 
 ---
 
-### 📌 Project Unggulan
+
 ## 📌 Project Unggulan
 
 - 🛒 [Sistem Point of Sale](https://github.com/triamtomo/sistem-pos-ci4) — CodeIgniter 4, autentikasi bcrypt, laporan penjualan
