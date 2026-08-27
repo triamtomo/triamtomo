@@ -1,11 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20There%20👋%20I'm%20Triam%20Tomo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=S1%20Informatics%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0083B0&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://triamtomo28.com"><img src="https://img.shields.io/badge/Portfolio-View-8E2DE2?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="mailto:triamtomo28@gmail.com"><img src="https://img.shields.io/badge/Email-Me-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/triamtomo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/triamtomo"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Triam+Tomo;S1+Informatics+Student;Full-Stack+Developer;Building+Impactful+Products+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<a href="https://triamtomo.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-View%20Now-8E2DE2?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+<a href="mailto:triamtomo28@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/triamtomo"><img src="https://img.shields.io/badge/GITHUB-Follow-0083B0?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=triamtomo&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/triamtomo?style=for-the-badge&color=4A00E0&labelColor=black&label=FOLLOWERS"/>
 
 </div>
 
@@ -16,48 +22,56 @@
 Mahasiswa **S1 Informatika** yang berfokus pada pengembangan aplikasi web. Saya senang membangun aplikasi dari **frontend hingga backend** — mulai dari perancangan database, autentikasi, REST API, hingga implementasi berbagai fitur aplikasi.
 
 ```yaml
-whoami:            Triam Tomo
-role:              Full-Stack Developer
+whoami:             Triam Tomo
+role:               Full-Stack Developer
 currently_learning: [Next.js, TypeScript, Docker]
-goal:              Building impactful products 🚀
-fun_fact:          I turn coffee ☕ into code 💻
+goal:               Building impactful products 🚀
+fun_fact:           I turn coffee ☕ into code 💻
 ```
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 **Backend**
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,express" /> <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<br>
+<img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" /> <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 
 **Database**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 **Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</div>
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=triamtomo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triamtomo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=triamtomo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triamtomo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=triamtomo&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=triamtomo&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=triamtomo&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=triamtomo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=triamtomo&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </div>
 
 <br>
@@ -66,7 +80,7 @@ fun_fact:          I turn coffee ☕ into code 💻
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Sistem Point of Sale
 Aplikasi kasir berbasis web dengan autentikasi bcrypt, cetak struk, dan laporan penjualan.
@@ -76,7 +90,7 @@ Aplikasi kasir berbasis web dengan autentikasi bcrypt, cetak struk, dan laporan 
 [🔗 Lihat Project](https://github.com/triamtomo/sistem-pos-ci4)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 Sistem Manajemen Perpustakaan
 Manajemen data buku, anggota, peminjaman, dilengkapi QR Code.
@@ -88,7 +102,7 @@ Manajemen data buku, anggota, peminjaman, dilengkapi QR Code.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📦 Sistem Manajemen Inventori
 RESTful API untuk manajemen inventori dengan Node.js, Express & MongoDB.
@@ -98,7 +112,7 @@ RESTful API untuk manajemen inventori dengan Node.js, Express & MongoDB.
 [🔗 Lihat Project](https://github.com/triamtomo/sistem-inventori-nodejs)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍅 TomaDis
 Deteksi penyakit tanaman tomat menggunakan model MobileNetV2.
@@ -125,9 +139,6 @@ Deteksi penyakit tanaman tomat menggunakan model MobileNetV2.
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<img src="https://komarev.com/ghpvc/?username=triamtomo&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/triamtomo?style=for-the-badge&color=4A00E0&labelColor=black"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,50:4A00E0,100:8E2DE2&height=150&section=footer" width="100%"/>
 
 </div>
