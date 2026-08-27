@@ -12,7 +12,6 @@ Saya senang membangun aplikasi dari frontend hingga backend, mulai dari perancan
 - React.js
 - MySQL & MongoDB
 
-🌱 Sedang belajar lebih dalam soal pengembangan web modern
 
 📫 Bisa dihubungi lewat triamtomo28@gmail.com
 
