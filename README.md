@@ -19,15 +19,11 @@
 
 ## 🧑‍💻 Tentang Saya
 
-Mahasiswa **S1 Informatika** yang berfokus pada pengembangan aplikasi web. Saya senang membangun aplikasi dari **frontend hingga backend** — mulai dari perancangan database, autentikasi, REST API, hingga implementasi berbagai fitur aplikasi.
+Mahasiswa **S1 Informatika semester 5** di Universitas Bina Sarana Informatika, Depok, yang berfokus pada software dan web development. Saya memiliki pengalaman mengembangkan berbagai proyek menggunakan **PHP/CodeIgniter 4, Node.js/Express, React, Python, MySQL, MongoDB**, serta machine learning — mulai dari perancangan database, implementasi fitur, autentikasi, hingga visualisasi data.
 
-```yaml
-whoami:             Triam Tomo
-role:               Full-Stack Developer
-currently_learning: [Next.js, TypeScript, Docker]
-goal:               Building impactful products 🚀
-fun_fact:           I turn coffee ☕ into code 💻
-```
+Saya terbiasa belajar mandiri, teliti, dan terbiasa bekerja dengan tenggat waktu. Saat ini saya sedang mencari kesempatan **magang** untuk menerapkan dan mengembangkan kemampuan teknis di lingkungan kerja profesional.
+
+📍 Depok, Jawa Barat &nbsp;•&nbsp; 📧 triamtomo28@gmail.com &nbsp;•&nbsp; 🌱 Saat ini memperdalam Next.js, TypeScript & Docker
 
 <br>
 
